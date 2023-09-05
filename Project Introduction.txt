@@ -1,6 +1,6 @@
-**Log on to codeastro.com for more projects!**
 
-**Developed By Sumit Kumar**
+
+**Developed By Gatete Christian, Tugirumuremyi Peter, Usanawe Gisele, Igiraneza Winny, Byiringiro Tumusifu**
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
